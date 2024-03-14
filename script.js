@@ -32,4 +32,8 @@ function ninthfunc(){
 
 function tenthfunc(){
     console.log("10th line after tracking")
-}   
+} 
+
+function eleventhfunc(){
+    console.log("11th line after tracking")
+}
