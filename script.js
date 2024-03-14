@@ -13,3 +13,7 @@ function thirdFun(){
 function fourthFun(){
     console.log("4th line after tracking")
 }
+
+function fifthFun(){
+    console.log("5th line after tracking")
+}
