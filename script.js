@@ -9,3 +9,7 @@ function seconFun(){
 function thirdFun(){
     console.log("3rd line after tracking")
 }
+
+function fourthFun(){
+    console.log("4th line after tracking")
+}
