@@ -8,16 +8,21 @@ function seconFun(){
 
 function thirdFun(){
     console.log("3rd line after tracking")
+<<<<<<< HEAD
+<<<<<<< HEAD
+}
+
+function fourthFun(){
+    console.log("4th line after tracking")
 }
 
 function fifthFun(){
     console.log("5th line after tracking")
+=======
+>>>>>>> parent of 055b584 (fourth func added in script.js)
+=======
+>>>>>>> parent of 055b584 (fourth func added in script.js)
 }
-
-function sixthfun(){
-    console.log("6th line after tracking")
-}
-console.log();
 
 function seventhfunc(){ 
     console.log("7th line after tracking")
