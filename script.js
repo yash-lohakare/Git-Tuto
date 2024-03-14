@@ -29,3 +29,7 @@ function eighthfunc(){
 function ninthfunc(){
     console.log("9th line after tracking")
 }
+
+function tenthfunc(){
+    console.log("10th line after tracking")
+}   
