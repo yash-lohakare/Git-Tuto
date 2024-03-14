@@ -18,3 +18,7 @@ function sixthfun(){
     console.log("6th line after tracking")
 }
 console.log();
+
+function seventhfunc(){ 
+    console.log("7th line after tracking")
+}
